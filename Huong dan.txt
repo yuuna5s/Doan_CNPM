@@ -1,1 +1,0 @@
-Xóa hết database btbdt rồi tạo lại database btbdt import cái sql của tao vào.
